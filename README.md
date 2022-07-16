@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lobsterjay
 - 👀 I’m interested in lobsters and arbitrage
 - 🌱 I’m currently learning how to frontrun MEV boys stand up
-- 💞️ I’m looking to collaborate on stablecoin business venture
+- 💞️ I’m looking to collaborate on stablecoin business ventures
 - 📫 How to reach me @3jayvh on Twitter
 
 <!---
